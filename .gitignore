@@ -1,0 +1,6 @@
+# Compiled Lua sources
+luac.out
+
+# Vim temp files
+*.lua~
+*~
